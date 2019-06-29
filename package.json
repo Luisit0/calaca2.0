@@ -1,0 +1,13 @@
+{
+  "name": "calaca2.0",
+  "version": "2.0",
+  "description": "Calaca v2.0 Centro Cultural Calaca",
+  "main": "index.js",
+  "repository": "https://github.com/Luisit0/calaca2.0.git",
+  "author": "Luisit0 <jlmorenor@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-env": "1.5.2",
+    "babel-preset-react": "6.24.1"
+  }
+}
